@@ -19,7 +19,7 @@ print '
 			<p>https://www.metaweather.com/api/location/851128/2020/4/10/
 				<br>Zagreb
 				<br>Datum: 10.04.2020.</p>';
-			
+			# DOCUMENTATION: https://www.metaweather.com/api/
 			#$url = 'https://www.metaweather.com/api/location/search/?query=zag';
 			$url = 'https://www.metaweather.com/api/location/851128/2020/4/10/';
 			
